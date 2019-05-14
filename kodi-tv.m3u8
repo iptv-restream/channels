@@ -1,0 +1,52 @@
+#EXTM3U x-tvg-url="http://i.mjh.nz/nz/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.9.png",TVNZ 1
+http://i.mjh.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",TVNZ 2
+http://i.mjh.nz/nz/tv.10.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.11" tvg-logo="http://i.mjh.nz/nz/images/tv.11.png",Three
+http://i.mjh.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.12" tvg-logo="http://i.mjh.nz/nz/images/tv.12.png",Bravo
+http://i.mjh.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.13" tvg-logo="http://i.mjh.nz/nz/images/tv.13.png",Māori Television
+http://i.mjh.nz/nz/tv.13.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.65" tvg-logo="http://i.mjh.nz/nz/images/tv.65.png",ThreeLife
+http://i.mjh.nz/nz/tv.65.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.55" tvg-logo="http://i.mjh.nz/nz/images/tv.55.png",DUKE
+http://i.mjh.nz/nz/tv.55.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.51" tvg-logo="http://i.mjh.nz/nz/images/tv.51.png",The Edge TV
+http://i.mjh.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.20" tvg-logo="http://i.mjh.nz/nz/images/tv.20.png",Te Reo
+http://i.mjh.nz/nz/tv.20.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/nz/images/tv.46.png",Al Jazeera
+http://i.mjh.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.45" tvg-logo="http://i.mjh.nz/nz/images/tv.45.png",TVSN Shopping
+http://i.mjh.nz/nz/tv.45.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.7" tvg-logo="http://i.mjh.nz/nz/images/tv.7.png",Shine TV
+http://i.mjh.nz/nz/tv.7.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.39" tvg-logo="http://i.mjh.nz/nz/images/tv.39.png",Firstlight
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+
+#EXTINF:-1 tvg-id="tv.18" tvg-logo="http://i.mjh.nz/nz/images/tv.18.png",Parliament TV
+http://i.mjh.nz/nz/tv.18.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.63" tvg-logo="http://i.mjh.nz/nz/images/tv.63.png",Panda TV
+http://i.mjh.nz/nz/tv.63.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.60" tvg-logo="http://i.mjh.nz/nz/images/tv.60.png",Wairarapa TV
+http://i.mjh.nz/nz/tv.60.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.redbull.tv.png",Redbull TV
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
