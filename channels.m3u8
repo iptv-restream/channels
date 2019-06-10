@@ -92,9 +92,9 @@ https://edge-07.sangatv.com/origin-channels/amlst:d24tv/chunklist_w1651153288_b8
 https://edge-07.sangatv.com/origin-channels/amlst:d5tv/playlist.m3u8
 #EXTINF:1 tvg-id="a2i.music" tvg-name="A2i Music" group-title="Music" tvg-logo="https://static.sangatv.com/images/channels/logo/fdd12850-70a6-11e9-90d5-5b0673b3baa3.png",A2i Music
 https://edge-08.sangatv.com/origin01/amlst:a2i-music/playlist.m3u8
-#EXTINF:1 tvg-id="equipe" tvg-name="L'Equire" group-title="Sport"
+#EXTINF:1 tvg-id="equipe" tvg-name="L'Equire" group-title="Sport",L'Equire
 https://stream-06.ix7.dailymotion.com/sec(r-_K9KaKEM8TfiXnYVEaMZZ5QgrdHfDcyTWYMwDBE_o)/dm/3/x2lefik/d/live-4.m3u8
-#EXTINF:1 tvg-id="voxafrica" tvg-name="Vox Africa" group-title="Divertissement"
+#EXTINF:1 tvg-id="voxafrica" tvg-name="Vox Africa" group-title="Divertissement",Vox Africa
 https://edge-01.playmedia-cdn.net/origin02/amlst:voxafrica/chunklist_w681904259_b800000.m3u8
-#EXTINF:1 tvg-id="mensuptv" tvg-name="MEN'S UP Tv" group-title="Divertissement"
+#EXTINF:1 tvg-id="mensuptv" tvg-name="MEN'S UP TV" group-title="Divertissement"MEN'S UP TV
 https://edge-02.playmedia-cdn.net/origin01/amlst:mensuptv/chunklist_w1628793326_b1500000.m3u8
