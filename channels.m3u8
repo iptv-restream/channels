@@ -94,3 +94,5 @@ https://edge-07.sangatv.com/origin-channels/amlst:d5tv/playlist.m3u8
 https://edge-08.sangatv.com/origin01/amlst:a2i-music/playlist.m3u8
 #EXTINF:1 tvg-id="equipe" tvg-name="L'Equire" group-title="Sport"
 https://stream-06.ix7.dailymotion.com/sec(r-_K9KaKEM8TfiXnYVEaMZZ5QgrdHfDcyTWYMwDBE_o)/dm/3/x2lefik/d/live-4.m3u8
+#EXTINF:1 tvg-id="voxafrica" tvg-name="Vox Africa" group-title="Divertissement"
+https://edge-01.playmedia-cdn.net/origin02/amlst:voxafrica/chunklist_w681904259_b800000.m3u8
