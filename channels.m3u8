@@ -100,3 +100,5 @@ https://edge-01.playmedia-cdn.net/origin02/amlst:voxafrica/chunklist_w681904259_
 https://edge-02.playmedia-cdn.net/origin01/amlst:mensuptv/chunklist_w1628793326_b1500000.m3u8
 #EXTINF:1 tvg-id="tf1" tvg-name="TF1" group-title="Divertissement",TF1
 https://s1.tntendirect.com/tf1/live/chunks.m3u8?nimblesessionid=13768088&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDE5IDg6MTU6MzQgUE0maGFzaF92YWx1ZT01cTlORzlPemN3L2Zabk1ScXNyZnpRPT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:0 tvg-id="africanews" tvg-name="TF1" group-title="News",Africa News
+https://stream-03.ix7.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irZZt0w79jm3SH2PG89ncTmM)/dm/3/x6i37o5/s/live-2.m3u
