@@ -85,8 +85,8 @@ http://185.59.221.143:1935/rticdn/smil:rti2.smil/chunklist_w411228344_b250000.m3
 #EXTINF:0 tvg-id="rts.1" tvg-name="RTS 1" group-title="Africa" tvg-logo="https://static.sangatv.com/images/channels/logo/51637de0-b994-11e7-a10d-85692dd16a0f.png",RTS 1
 https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="voxafrica.com" tvg-name="Vox Africa" group-title="Africa" tvg-logo="http://voxafrica.com/fr/wp-content/uploads/2016/08/logo.png",Vox Africa
-http://109.231.229.37:3401/voxafuk/voxafhlsout/playlist.m3u8
 https://edge-02.playmedia-cdn.net/origin01/amlst:voxafrica/playlist.m3u8
+https://edge-05.playmedia-cdn.net/origin01/amlst:voxafrica/playlist.m3u8
 #EXTINF:1 tvg-id="d24.tv" tvg-name="D24 TV" group-title="Africa" tvg-logo="https://static.sangatv.com/images/channels/logo/fa5f0f80-ba25-11e7-ae2f-4daf5ff32fbf.png",D24 TV
 https://edge-07.sangatv.com/origin-channels/amlst:d24tv/chunklist_w1651153288_b800000.m3u8
 #EXTINF:1 tvg-id="d5tv" tvg-name="D5TV" group-title="Cinema" tvg-logo="https://static.sangatv.com/images/channels/logo/add858e0-4c6f-11e8-a69f-cd54c66337ed.png",D5TV
